@@ -1,3 +1,6 @@
+<head>
+	<title>Fabelio</title>
+</head>
 <?php
 	include 'connection.php';
 

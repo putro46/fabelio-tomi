@@ -1,3 +1,6 @@
+<head>
+	<title>Fabelio</title>
+</head>
 <?php
 	include('simple_html_dom.php');
 	include('connection.php');

@@ -1,3 +1,6 @@
+<head>
+	<title>Fabelio</title>
+</head>
 <form method="post" action="process.php">
 	URL: <input name="url" type="text" required /><br/><br>
 	<input name="submit" type="submit" value="Submit"/>
